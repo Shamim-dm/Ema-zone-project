@@ -1,0 +1,28 @@
+.products-cart img{
+   width: 100%;
+    border-radius: 10px;
+    
+   
+}
+.products-cart{
+   position: relative;
+    
+    border: 1px solid rgb(197, 197, 197);
+    border-radius: 10px;
+}
+.products-description{
+    margin-bottom: 30px;
+    padding: 10px;
+}
+.btn-cart{
+    
+    background-color: bisque;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    
+}
+.btn-cart:hover{
+    background-color: coral;
+    color: white;
+}

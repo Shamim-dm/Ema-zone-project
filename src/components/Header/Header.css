@@ -1,0 +1,18 @@
+.nav-section{
+    background-color: #1C2B35;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 10px;
+    
+}
+.nav-items {
+    display: flex;
+    padding-right: 20px;
+   color: white; 
+   gap:20px;
+}
+.nav-items a{
+    color: white;
+}
