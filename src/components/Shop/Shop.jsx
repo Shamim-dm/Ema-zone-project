@@ -27,11 +27,11 @@ const Shop = () => {
                         handleAddToCart = {handleAddToCart}
                         ></Product> )
                 }
-            </div>
-                <Cart cart={cart}></Cart>
-            <div>
+            </div >
                 
+            <div className='cart-section'>
                 
+            <Cart cart={cart}></Cart>
 
             </div>
         </div>
