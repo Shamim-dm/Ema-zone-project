@@ -1,0 +1,8 @@
+.order-products{
+    margin: 20px;
+}
+
+.shops-section{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
